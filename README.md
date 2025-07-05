@@ -1,1 +1,1 @@
-des fonction js pour un cite e commerce
+des fonction js pour un site e commerce
