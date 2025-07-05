@@ -1,1 +1,1 @@
-des fonction js pour un site e commerce
+des fonctions js pour un site e commerce
